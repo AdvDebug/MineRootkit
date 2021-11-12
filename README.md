@@ -1,5 +1,5 @@
 # MineRootkit
-Usermode Rootkit made in C# and C++ and it's goal is to prevent termination of your process.
+PoC Usermode Rootkit made in C# and C++ and it's goal is to prevent termination of your process.
 # Usage
 All you have to do is to enter the process id in the textbox which you want the program to be prevented from terminating MineRootkit, you can choose something like Task Manager or Process Explorer.
 # Tests
