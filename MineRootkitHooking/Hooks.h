@@ -8,7 +8,6 @@
 FARPROC OpenProcessAddr = GetProcAddress(GetModuleHandle(L"kernelbase.dll"), "OpenProcess");
 FARPROC TerminateThreadAddr = GetProcAddress(GetModuleHandle(L"kernelbase.dll"), "TerminateThread");
 FARPROC OpenThreadAddr = GetProcAddress(GetModuleHandle(L"kernelbase.dll"), "OpenThread");
-FARPROC NtQueryInformationProcessAddr = GetProcAddress(GetModuleHandle(L"ntdll.dll"), "NtQueryInformationProcess");
 
 bool Hook(void* src, void* dst, int len)
 {
