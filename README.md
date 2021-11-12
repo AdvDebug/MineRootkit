@@ -1,5 +1,5 @@
 # MineRootkit
-Usermode Rootkit made in C# and C++ which it's goal is to prevent termination of your process.
+Usermode Rootkit made in C# and C++ and it's goal is to prevent termination of your process.
 # Tests
 Task Manager - Success
 <img width="960" alt="TaskMgr" src="https://user-images.githubusercontent.com/90452585/141400756-3945746b-aa43-4cd3-9303-883ec93b3b88.png">
