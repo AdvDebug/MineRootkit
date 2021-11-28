@@ -18,4 +18,4 @@ Process Hacker - Failed
 # Video Showcase
 Youtube Video Showcase: https://youtu.be/sVxOJApqGJM
 # Note
-Please Don't download the rootkit from any other source, i found a lot of people took the rootkit and injected it with a rat, ransomware, etc... on hacking forums.
+Please Don't download the rootkit from any other source, i found a lot of people took the rootkit and injected it with a rat, ransomware, etc... on hacking forums. (always run programs from unknown sources in a VM or a sandbox with internet connection disabled)
