@@ -1,7 +1,7 @@
 # MineRootkit
 PoC Windows Usermode Rootkit made in C# and C++, made to show you how to protect your process from termination using hooking. (if you liked it please give me a start to continue on this and other projects)
 # Note
-Please Don't download the rootkit from any other source, i found a lot of people took the rootkit and injected it with a rat, ransomware, etc... on hacking forums. (always run programs from unknown sources in a VM or a sandbox with internet connection disabled)
+Please Don't download the rootkit from any other source other than here, i found a lot of people took the rootkit and injected it with a rat, ransomware, etc... on hacking forums. (always run programs from unknown sources in a VM or a sandbox with internet connection disabled)
 # Usage
 All you have to do is to enter the process id in the textbox which you want the program to be prevented from terminating MineRootkit, you can choose something like Task Manager or Process Explorer.
 
