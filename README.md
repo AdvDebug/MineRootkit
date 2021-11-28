@@ -17,3 +17,5 @@ Process Explorer - Success
 Process Hacker - Failed
 # Video Showcase
 Youtube Video Showcase: https://youtu.be/sVxOJApqGJM
+# Note
+Please Don't download the rootkit from any other source, i found a lot of people took the rootkit and torjanized it with a rat, ransomware, etc...
