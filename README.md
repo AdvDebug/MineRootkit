@@ -18,7 +18,7 @@ Process Hacker - Failed
 # Video Showcase
 Youtube Video Showcase: https://youtu.be/sVxOJApqGJM
 # Detection (x64 version)
-The Rootkit are currently FUD, Note That these results may change as time passes.
+The Rootkit are currently FUD, Note That these results may change as time passes. (uploaded at the date of 12/2/2021)
 _____________________________
 AntiScan.Me Results:
 
