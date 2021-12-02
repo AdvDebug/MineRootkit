@@ -23,13 +23,16 @@ The Rootkit are currently FUD, Note That these results may change as time passes
 AntiScan.Me Results:
 
 Executable: https://antiscan.me/scan/new/result?id=D885RxJFaIDw (0/26 at the time of uploading it.)
+
 Dll: https://antiscan.me/scan/new/result?id=YqJLg3MrKfTJ (0/26 at the time of uploading it.)
 
 KleenScan Results:
 
 Executable: https://kleenscan.com/scan_result/e63b714b447cc69098bf73c896aa2cba991d88dd79e194702534c0aa41797eac (0/40 at the time of uploading it.)
+
 Dll: https://kleenscan.com/scan_result/0ba9119bb0b84f3c9242e855e68a72fdbbb97b21d49355b92f570916789fa16e (1/40 at the time of uploading it.)
 
 VirusTotal Results:
 Executable: https://www.virustotal.com/gui/file/2f6ae10301a36b4e1ba47cba376fff7c7f1262c35d8cde1978a225ff4a68c11c?nocache=1 (1/63 at the time of uploading it.)
+
 Dll: https://www.virustotal.com/gui/file/7c3f296b8b01e48739447cb6131a6026b26d4138e2736d34fda74027d57b1534?nocache=1 (4/64 at the time of uploading it.)
