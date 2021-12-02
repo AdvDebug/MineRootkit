@@ -22,15 +22,15 @@ The Rootkit are currently FUD, Note That these results may change as time passes
 _____________________________
 AntiScan.Me Results:
 
-Executable: https://antiscan.me/scan/new/result?id=D885RxJFaIDw (0/26 at the time of uploading it.)
+Executable: <a href="https://antiscan.me/scan/new/result?id=D885RxJFaIDw">AntiScan.Me Executable Detection</a> (0/26 at the time of uploading it.)
 
-Dll: https://antiscan.me/scan/new/result?id=YqJLg3MrKfTJ (0/26 at the time of uploading it.)
+Dll: <a href="https://antiscan.me/scan/new/result?id=YqJLg3MrKfTJ">AntiScan.Me Dll Detection</a> (0/26 at the time of uploading it.)
 _____________________________
 KleenScan Results:
 
-Executable: https://kleenscan.com/scan_result/e63b714b447cc69098bf73c896aa2cba991d88dd79e194702534c0aa41797eac (0/40 at the time of uploading it.)
+Executable: <a href="https://kleenscan.com/scan_result/e63b714b447cc69098bf73c896aa2cba991d88dd79e194702534c0aa41797eac">KleenScan Executable Detection</a> (0/40 at the time of uploading it.)
 
-Dll: https://kleenscan.com/scan_result/0ba9119bb0b84f3c9242e855e68a72fdbbb97b21d49355b92f570916789fa16e (1/40 at the time of uploading it.)
+Dll: <a href="https://kleenscan.com/scan_result/0ba9119bb0b84f3c9242e855e68a72fdbbb97b21d49355b92f570916789fa16e">KleenScan Dll Detection</a> (1/40 at the time of uploading it.)
 _____________________________
 VirusTotal Results:
 
