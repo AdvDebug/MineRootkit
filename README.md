@@ -37,7 +37,3 @@ VirusTotal Results:
 Executable: <a href="https://www.virustotal.com/gui/file/2f6ae10301a36b4e1ba47cba376fff7c7f1262c35d8cde1978a225ff4a68c11c?nocache=1">VirusTotal Executable Detection</a> (1/63 at the time of uploading it.)
 
 Dll: <a href="https://www.virustotal.com/gui/file/7c3f296b8b01e48739447cb6131a6026b26d4138e2736d34fda74027d57b1534?nocache=1">VirusTotal Dll Detection</a> (4/64 at the time of uploading it.)
-# Dontaion
-if you liked my work you can donate!
-
-BTC Address: bc1q8tf0ca68lh2ks4cy62x27fafsj07vrpxndxatp
