@@ -14,7 +14,7 @@ Process Explorer - Success
 
 <img width="960" alt="ProcessExplorer" src="https://user-images.githubusercontent.com/90452585/141400804-e8c2144f-3d1d-43af-98bf-ffcc93397df5.PNG">
 
-Process Hacker - Failed
+Process Hacker - Failed (Depends on a kernel-driver)
 # Video Showcase
 Youtube Video Showcase: https://youtu.be/sVxOJApqGJM
 # Detection (x64 version)
