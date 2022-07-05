@@ -19,19 +19,22 @@ Process Hacker - Failed (Depends on a kernel-driver)
 Youtube Video Showcase: https://youtu.be/sVxOJApqGJM
 # Detection (x64 version)
 The Rootkit are currently FUD, Note That these results may change as time passes. (uploaded at the date of 12/2/2021)
-_____________________________
+
+## AntiScan.Me
 AntiScan.Me Results:
 
 Executable: <a href="https://antiscan.me/scan/new/result?id=D885RxJFaIDw">AntiScan.Me Executable Detection</a> (0/26 at the time of uploading it.)
 
 Dll: <a href="https://antiscan.me/scan/new/result?id=YqJLg3MrKfTJ">AntiScan.Me Dll Detection</a> (0/26 at the time of uploading it.)
-_____________________________
+
+## Kleenscan
 KleenScan Results:
 
 Executable: <a href="https://kleenscan.com/scan_result/e63b714b447cc69098bf73c896aa2cba991d88dd79e194702534c0aa41797eac">KleenScan Executable Detection</a> (0/40 at the time of uploading it.)
 
 Dll: <a href="https://kleenscan.com/scan_result/0ba9119bb0b84f3c9242e855e68a72fdbbb97b21d49355b92f570916789fa16e">KleenScan Dll Detection</a> (1/40 at the time of uploading it.)
-_____________________________
+
+## VirusTotal
 VirusTotal Results:
 
 Executable: <a href="https://www.virustotal.com/gui/file/2f6ae10301a36b4e1ba47cba376fff7c7f1262c35d8cde1978a225ff4a68c11c?nocache=1">VirusTotal Executable Detection</a> (1/63 at the time of uploading it.)
